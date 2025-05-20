@@ -39,16 +39,12 @@ plt.scatter(x,y,color='Red')
 plt.plot(x,ypred,color='Blue')
 plt.show()
 
-
-
-
-
 ```
 ## Output
+![Screenshot 2025-05-20 182717](https://github.com/user-attachments/assets/6e186e06-3bbf-4dc7-80c3-741c73989378)
 
-![Screenshot 2025-05-14 161928](https://github.com/user-attachments/assets/b8b69442-1a51-4a8e-acc3-9166faeab73a)
+![Screenshot 2025-05-20 182735](https://github.com/user-attachments/assets/2b11c724-6d8a-4ecb-9030-96671f09422a)
 
-![Screenshot 2025-05-14 161936](https://github.com/user-attachments/assets/3f11ffbd-2791-4c79-ba5a-d8c32218a45e)
 
 ## Result
 Thus the univariate Linear Regression was implemented to fit a straight line using least squares.
