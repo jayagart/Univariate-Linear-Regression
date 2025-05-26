@@ -1,4 +1,6 @@
 # Implementation of Univariate Linear Regression
+## NAME: Jayagar.T
+## REG.NO: 212224220042
 ## Aim:
 To implement univariate Linear Regression to fit a straight line using least squares.
 ## Equipment’s required:
